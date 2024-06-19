@@ -11,3 +11,10 @@ def depositar(valor):
     saldo += valor
 
 sacar(1000)
+
+
+#TODO
+# Para estudar melhor depois
+numero = [n**2 if n > 6 else n for n in range(10) if n % 2 == 0]
+
+print(numero)

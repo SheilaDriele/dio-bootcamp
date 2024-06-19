@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="68d6d702-005a-4729-9ea6-0bc385021716" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio_bancario.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio_bancario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudando-Python/indentacao_blocos.py" beforeDir="false" afterPath="$PROJECT_DIR$/estudando-Python/indentacao_blocos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Estrutura.executor": "Run",
-    "Python.desafio_bancario.executor": "Run",
-    "Python.estrutura_condicao.executor": "Run",
-    "Python.estrutura_condicional_aninhada.executor": "Run",
-    "Python.estrutura_condicional_ternaria.executor": "Run",
-    "Python.estrutura_repeticao_break.executor": "Run",
-    "Python.estrutura_repeticao_for.executor": "Run",
-    "Python.estrutura_repeticao_while.executor": "Run",
-    "Python.indentacao_blocos.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Estrutura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_bancario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_condicao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_condicional_aninhada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_condicional_ternaria.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_repeticao_break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_repeticao_for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_repeticao_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indentacao_blocos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
