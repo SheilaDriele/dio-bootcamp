@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68d6d702-005a-4729-9ea6-0bc385021716" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/lista_de_equipamentos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/padrao_telefone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/recomenda_plano.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudando-Python/heranca_multiplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudando-Python/heranca_simples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,8 @@
     "Python.estrutura_repeticao_break.executor": "Run",
     "Python.estrutura_repeticao_for.executor": "Run",
     "Python.estrutura_repeticao_while.executor": "Run",
+    "Python.estudando_heranca_simples.executor": "Run",
+    "Python.heranca_multiplas.executor": "Run",
     "Python.indentacao_blocos.executor": "Run",
     "Python.lista_de_equipamentos.executor": "Run",
     "Python.padrao_telefone.executor": "Run",
