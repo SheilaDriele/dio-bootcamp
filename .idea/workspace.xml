@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d6d702-005a-4729-9ea6-0bc385021716" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/estudando-Python/heranca_multiplas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudando-Python/heranca_simples.py" afterDir="false" />
+    <list default="true" id="68d6d702-005a-4729-9ea6-0bc385021716" name="Changes" comment="Estudando encapsulamento, polimorfismo e propriedades com heranca">
+      <change afterPath="$PROJECT_DIR$/desafios/desafio_bancario_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudando-Python/atributos_classe_instancia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudando-Python/metodos_classe_estatico.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +37,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Estrutura.executor": "Run",
+    "Python.atributos_classe_instancia.executor": "Run",
     "Python.desafio_bancario.executor": "Run",
+    "Python.encapsulamento.executor": "Run",
     "Python.estrutura_condicao.executor": "Run",
     "Python.estrutura_condicional_aninhada.executor": "Run",
     "Python.estrutura_condicional_ternaria.executor": "Run",
@@ -47,7 +50,11 @@
     "Python.heranca_multiplas.executor": "Run",
     "Python.indentacao_blocos.executor": "Run",
     "Python.lista_de_equipamentos.executor": "Run",
+    "Python.metodos_classe_estatico.executor": "Run",
     "Python.padrao_telefone.executor": "Run",
+    "Python.polimorfismo.executor": "Run",
+    "Python.propriedade_pessoa.executor": "Run",
+    "Python.propriedades.executor": "Run",
     "Python.recomenda_plano.executor": "Run",
     "Python.string_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,6 +82,30 @@
       <option name="presentableId" value="Default" />
       <updated>1718498815063</updated>
     </task>
+    <task id="LOCAL-00001" summary="Estudando encapsulamento, polimorfismo e propriedades com heranca">
+      <option name="closed" value="true" />
+      <created>1719001728310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719001728310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Estudando encapsulamento, polimorfismo e propriedades com heranca" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudando encapsulamento, polimorfismo e propriedades com heranca" />
   </component>
 </project>
