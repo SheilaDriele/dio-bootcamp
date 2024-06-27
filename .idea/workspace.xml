@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d6d702-005a-4729-9ea6-0bc385021716" name="Changes" comment="Estudando atributos de classe e de instancia, metodos estaticos e de classe.">
-      <change afterPath="$PROJECT_DIR$/estudando-Python/classe_abstrata.py" afterDir="false" />
+    <list default="true" id="68d6d702-005a-4729-9ea6-0bc385021716" name="Changes" comment="Estudando classes abstratas">
+      <change afterPath="$PROJECT_DIR$/estudando-Python/decorador_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudando-Python/decorador_Acucar_Sintatico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudando-Python/funcao_interna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudando-Python/retorna_funcao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,41 +35,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Estrutura.executor": "Run",
-    "Python.atributos_classe_instancia.executor": "Run",
-    "Python.classe_abstrata.executor": "Run",
-    "Python.desafio_bancario.executor": "Run",
-    "Python.desafio_bancario_v2.executor": "Run",
-    "Python.encapsulamento.executor": "Run",
-    "Python.estrutura_condicao.executor": "Run",
-    "Python.estrutura_condicional_aninhada.executor": "Run",
-    "Python.estrutura_condicional_ternaria.executor": "Run",
-    "Python.estrutura_repeticao_break.executor": "Run",
-    "Python.estrutura_repeticao_for.executor": "Run",
-    "Python.estrutura_repeticao_while.executor": "Run",
-    "Python.estudando_heranca_simples.executor": "Run",
-    "Python.heranca_multiplas.executor": "Run",
-    "Python.indentacao_blocos.executor": "Run",
-    "Python.lista_de_equipamentos.executor": "Run",
-    "Python.metodos_classe_estatico.executor": "Run",
-    "Python.padrao_telefone.executor": "Run",
-    "Python.polimorfismo.executor": "Run",
-    "Python.propriedade_pessoa.executor": "Run",
-    "Python.propriedades.executor": "Run",
-    "Python.recomenda_plano.executor": "Run",
-    "Python.string_1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Estrutura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atributos_classe_instancia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classe_abstrata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorador_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorador_Acucar_Sintatico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_bancario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_bancario_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_condicao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_condicional_aninhada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_condicional_ternaria.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_repeticao_break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_repeticao_for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_repeticao_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estudando_heranca_simples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcao_interna.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heranca_multiplas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indentacao_blocos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista_de_equipamentos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.metodos_classe_estatico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.padrao_telefone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.propriedade_pessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.propriedades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recomenda_plano.executor&quot;: &quot;Run&quot;,
+    &quot;Python.retorna_funcao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\programacao\dio-bootcamp\desafios" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.desafio_bancario_v2">
     <configuration name="desafio_bancario_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dio-bootcamp" />
       <option name="ENV_FILES" value="" />
@@ -150,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719107149544</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Estudando classes abstratas">
+      <option name="closed" value="true" />
+      <created>1719345122308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719345122308</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +182,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Estudando encapsulamento, polimorfismo e propriedades com heranca" />
     <MESSAGE value="Estudando atributos de classe e de instancia, metodos estaticos e de classe." />
-    <option name="LAST_COMMIT_MESSAGE" value="Estudando atributos de classe e de instancia, metodos estaticos e de classe." />
+    <MESSAGE value="Estudando classes abstratas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudando classes abstratas" />
   </component>
 </project>
