@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68d6d702-005a-4729-9ea6-0bc385021716" name="Changes" comment="Estudando classes abstratas">
-      <change afterPath="$PROJECT_DIR$/estudando-Python/estudo_pytz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudando-Python/timezone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Dio-bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Dio-bootcamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula-Fatec/Lista3_estruturaCondicional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula-Fatec/exercicios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +38,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Estrutura.executor": "Run",
+    "Python.Lista3_estruturaCondicional.executor": "Run",
     "Python.atributos_classe_instancia.executor": "Run",
     "Python.classe_abstrata.executor": "Run",
     "Python.decorador_1.executor": "Run",
@@ -54,6 +54,7 @@
     "Python.estrutura_repeticao_while.executor": "Run",
     "Python.estudando_heranca_simples.executor": "Run",
     "Python.estudo_pytz (1).executor": "Run",
+    "Python.exercicios.executor": "Run",
     "Python.funcao_interna.executor": "Run",
     "Python.heranca_multiplas.executor": "Run",
     "Python.indentacao_blocos.executor": "Run",
@@ -67,6 +68,7 @@
     "Python.recomenda_plano.executor": "Run",
     "Python.retorna_funcao.executor": "Run",
     "Python.string_1.executor": "Run",
+    "Python.string_fatiamento.executor": "Run",
     "Python.timezone.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -169,6 +171,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.desafio_bancario_v2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
