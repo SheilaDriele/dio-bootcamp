@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d6d702-005a-4729-9ea6-0bc385021716" name="Changes" comment="Estudando classes abstratas">
-      <change afterPath="$PROJECT_DIR$/aula-Fatec/Lista3_estruturaCondicional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula-Fatec/exercicios.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="68d6d702-005a-4729-9ea6-0bc385021716" name="Changes" comment="Praticando estrutura condicional">
+      <change afterPath="$PROJECT_DIR$/aula-Fatec/Lista4_Poligono.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula-Fatec/Lista4_Simples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula-Fatec/Lista3_estruturaCondicional.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula-Fatec/Lista3_estruturaCondicional.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,49 +34,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Estrutura.executor": "Run",
-    "Python.Lista3_estruturaCondicional.executor": "Run",
-    "Python.atributos_classe_instancia.executor": "Run",
-    "Python.classe_abstrata.executor": "Run",
-    "Python.decorador_1.executor": "Run",
-    "Python.decorador_Acucar_Sintatico.executor": "Run",
-    "Python.desafio_bancario.executor": "Run",
-    "Python.desafio_bancario_v2.executor": "Run",
-    "Python.encapsulamento.executor": "Run",
-    "Python.estrutura_condicao.executor": "Run",
-    "Python.estrutura_condicional_aninhada.executor": "Run",
-    "Python.estrutura_condicional_ternaria.executor": "Run",
-    "Python.estrutura_repeticao_break.executor": "Run",
-    "Python.estrutura_repeticao_for.executor": "Run",
-    "Python.estrutura_repeticao_while.executor": "Run",
-    "Python.estudando_heranca_simples.executor": "Run",
-    "Python.estudo_pytz (1).executor": "Run",
-    "Python.exercicios.executor": "Run",
-    "Python.funcao_interna.executor": "Run",
-    "Python.heranca_multiplas.executor": "Run",
-    "Python.indentacao_blocos.executor": "Run",
-    "Python.lista_de_equipamentos.executor": "Run",
-    "Python.metodos_classe_estatico.executor": "Run",
-    "Python.padrao_telefone.executor": "Run",
-    "Python.polimorfismo.executor": "Run",
-    "Python.propriedade_pessoa.executor": "Run",
-    "Python.propriedades.executor": "Run",
-    "Python.pytz.executor": "Run",
-    "Python.recomenda_plano.executor": "Run",
-    "Python.retorna_funcao.executor": "Run",
-    "Python.string_1.executor": "Run",
-    "Python.string_fatiamento.executor": "Run",
-    "Python.timezone.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/programacao/dio-bootcamp",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Estrutura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lista3_estruturaCondicional.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lista4_Poligono.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lista4_Simples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lista4_simples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atributos_classe_instancia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classe_abstrata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorador_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorador_Acucar_Sintatico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_bancario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_bancario_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_condicao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_condicional_aninhada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_condicional_ternaria.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_repeticao_break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_repeticao_for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estrutura_repeticao_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estudando_heranca_simples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.estudo_pytz (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcao_interna.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heranca_multiplas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indentacao_blocos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista_de_equipamentos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.metodos_classe_estatico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.padrao_telefone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.propriedade_pessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.propriedades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pytz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recomenda_plano.executor&quot;: &quot;Run&quot;,
+    &quot;Python.retorna_funcao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_fatiamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.timezone.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/programacao/dio-bootcamp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\programacao\dio-bootcamp\desafios" />
@@ -217,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719345122308</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Praticando estrutura condicional">
+      <option name="closed" value="true" />
+      <created>1729117831206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729117831206</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +246,7 @@
     <MESSAGE value="Estudando encapsulamento, polimorfismo e propriedades com heranca" />
     <MESSAGE value="Estudando atributos de classe e de instancia, metodos estaticos e de classe." />
     <MESSAGE value="Estudando classes abstratas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estudando classes abstratas" />
+    <MESSAGE value="Praticando estrutura condicional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Praticando estrutura condicional" />
   </component>
 </project>

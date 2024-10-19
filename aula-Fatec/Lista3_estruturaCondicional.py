@@ -85,7 +85,7 @@
 #else:
 #    print('Categoria não existe.')
 
-##Exercício 7 - Calcular
+##Exercício 8 - Calcular
 #num1 = float(input('Digite um número: '))
 #num2 = float(input('Digite outro número: '))
 #operador = int(input('''Escolha uma opção:
@@ -109,3 +109,48 @@
 #    print('Resultado: ', resultado)
 #else:
 #    print('Operação invalida')
+
+##Exercício 9 - Emprestimo
+#vlCasa = float(input("Digite o valor da casa: "))
+#salario = float(input('Digite o valor do seu salário: '))
+#qtd_Anos = int(input('Digite quantidade de ano a pagar pela casa: '))
+#lim_Prestacao = salario * 0.30
+#vlPrestacao = vlCasa/(qtd_Anos*12)
+
+#if lim_Prestacao < vlPrestacao:
+#    print('Empréstimo recusado!')
+#else: print("Empréstimo aprovado!")
+
+#print('Valor da prestação: ', vlPrestacao, ' Seu limite mensal: ', lim_Prestacao)
+
+##Exercício 10 - Conta de Luz
+qtd_KWH = int(input('Digite a quantidade de kWh usada no mês: '))
+tipo_Instalacao = input('''Escolha o tipo da sua instalação: 
+[R] Residencial
+[I] Industrial
+[C] Comercial
+-> ''')
+
+if tipo_Instalacao == 'R' or tipo_Instalacao == 'r':
+    if qtd_KWH <= 500:
+        vlConta = qtd_KWH * 0.4
+        print('Valor a pagar: R$ %.2f' % vlConta)
+    else:
+        vlConta = qtd_KWH * 0.65
+        print('Valor a pagar: R$ %.2f' % vlConta)
+elif tipo_Instalacao == 'I' or tipo_Instalacao == 'i':
+    if qtd_KWH <= 1000:
+        vlConta = qtd_KWH * 0.55
+        print('Valor a pagar: R$ %.2f' % vlConta)
+    else:
+        vlConta = qtd_KWH * 0.6
+        print('Valor a pagar: R$ %.2f' % vlConta)
+elif tipo_Instalacao == 'C' or tipo_Instalacao == 'c':
+    if qtd_KWH <= 5000:
+        vlConta = qtd_KWH * 0.55
+        print('Valor a pagar: R$ %.2f' % vlConta)
+    else:
+        vlConta = qtd_KWH * 0.6
+        print('Valor a pagar: R$ %.2f' % vlConta)
+else:
+    print('Opção inválida!')
